@@ -33,13 +33,6 @@ The dashboard includes the following key sections:
 
 ---
 
-## 📷 Dashboard Preview
-Below is a preview of the dashboard:
-
-![Pizza Sales Dashboard Overview](Dashboard_Screenshots/main_page.png)
-
----
-
 ## 🚀 How to View the Dashboard
 1. Download the `.pbix` file from this repository.  
 2. Open it using **Microsoft Power BI Desktop** (free to use).  
