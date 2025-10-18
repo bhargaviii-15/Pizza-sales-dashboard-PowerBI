@@ -57,3 +57,4 @@ It showcases my skills in **data visualization, dashboard design, data cleaning*
 👤 **Author:** Bhargavi Y  
 📧 **Email:** bhargaviyogesh15@gmail.com  
 🔗 **GitHub:** [https://github.com/bhargaviii-15](https://github.com/bhargaviii-15)
+💼 https://www.linkedin.com/in/bhargavi-y-9a06a8322/ 
